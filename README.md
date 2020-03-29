@@ -2,6 +2,10 @@
 
 Minimum-sum descent Some positive integers are arranged in an equilateral triangle with n numbers in its base like the one shown in the figure below for n = 4. The problem is to find the smallest sum in a descent from the triangle apex to its base through a sequence of adjacent numbers (shown in the figure by the circles). Design a dynamic programming algorithm for this problem and indicate its time efficiency.
 
+<p align="center">
+  <img src="https://github.com/ThapaRahul/shortest-path-triangle/blob/master/tree.png">
+</p>
+
 Empirical Investigation of Three Algorithms for the Minimum-Sum Descent Problem
 
 As most algorithmic problems, it can be solved by different algorithms, including:

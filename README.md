@@ -4,7 +4,7 @@ Minimum-sum descent Some positive integers are arranged in an equilateral triang
 
 Empirical Investigation of Three Algorithms for the Minimum-Sum Descent Problem
 
-The problem in question is stated in Exercises 8.1 of the textbook.  As most algorithmic problems, it can be solved by different algorithms, including:
+As most algorithmic problems, it can be solved by different algorithms, including:
 - Brute force
 - Dynamic Programming
 - Dijkstra’s shortest path algorithm 
@@ -21,7 +21,7 @@ The input to each of these algorithms will be a positive integer n specified fro
 
 -	Indicate the order of your algorithm’s time efficiency based on the theoretical grounds.  Justify your answer.
 
--	Run your algorithm on a sequence of n’s values to obtain a scatterplot like those in Section 2.6 of the textbook.  Discuss whether your empirical data agree with your theoretical answer given above.
+-	Run your algorithm on a sequence of n’s values to obtain a scatterplot. Discuss whether your empirical data agree with your theoretical answer given above.
 
 -	Experiment with your program to find the largest value of n for which it can solve the problem in 1 minute on your computer.
 
